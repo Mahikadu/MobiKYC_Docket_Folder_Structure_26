@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <!-- Header -->
+     <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="5dp">
+            
+             <!-- <TextView
+                 android:id="@+id/textView1"
+                 android:layout_width="fill_parent"
+                 android:layout_height="35dp"
+                 android:layout_alignParentBottom="true"
+                 android:layout_alignParentTop="true"
+              
+                 android:gravity="center"
+                 android:padding="4dp"
+                 android:text="@string/app_name"
+                 android:textColor="#ffffff"
+                 android:textSize="25sp"
+                 android:textStyle="bold" /> -->
+
+         <!--     <ImageView
+                 android:id="@+id/imageView1"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentLeft="true"
+                 android:layout_centerVertical="true"
+                 android:src="@drawable/logo" /> -->
+
+                 <ImageView
+                     android:id="@+id/imageView1"
+                     android:layout_width="200dp"
+                     android:layout_height="100dp"
+                     android:layout_alignParentTop="true"
+                     android:layout_centerHorizontal="true"
+                     android:src="@drawable/logo1" />
+
+             </RelativeLayout>
+    <!-- End Header -->
+
+<ScrollView     
+        android:id="@+id/login_form"
+        
+        android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="284dp"
+            android:orientation="vertical" 
+            android:background="@drawable/bg">
+
+            <Button
+                android:id="@+id/buttonView"
+                android:layout_width="180dp"
+                android:layout_height="35dp"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                 android:background="#146533"
+                android:padding="4dp"
+                android:text="View and Submit Entries"
+                android:textColor="#ffffff"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/buttonCreate"
+                android:layout_width="180dp"
+                android:layout_height="35dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="68dp"
+                android:background="@drawable/round"
+                android:padding="4dp"
+                android:text="Create New Entry"
+                android:textColor="#ffffff"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/buttonEdit"
+                android:layout_width="180dp"
+                android:layout_height="35dp"
+                android:layout_alignLeft="@+id/buttonView"
+                android:layout_below="@+id/buttonCreate"
+                android:layout_marginTop="46dp"
+                android:background="@drawable/round_red"
+                android:padding="4dp"
+                android:text="Edit Saved Entries"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                 />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:text="Powered By Sudesi Cloud" />
+             
+           </RelativeLayout>
+        
+        
+        
+    </ScrollView> 
+
+    
+</LinearLayout>

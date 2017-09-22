@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <!-- Header -->
+    <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" android:layout_marginTop="5dp">
+            
+             <!-- <TextView
+                 android:id="@+id/textView1"
+                 android:layout_width="fill_parent"
+                 android:layout_height="35dp"
+                 android:layout_alignParentBottom="true"
+                 android:layout_alignParentTop="true"
+              
+                 android:gravity="center"
+                 android:padding="4dp"
+                 android:text="@string/app_name"
+                 android:textColor="#ffffff"
+                 android:textSize="25sp"
+                 android:textStyle="bold" /> -->
+                 
+                 <ImageView
+                     android:id="@+id/imageView1"
+                     android:layout_width="250dp"
+                     android:layout_height="100dp"
+                     android:layout_alignParentTop="true"
+                     android:layout_centerHorizontal="true"
+                     android:src="@drawable/logo1" />
+
+         <!--     <ImageView
+                 android:id="@+id/imageView1"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentLeft="true"
+                 android:layout_centerVertical="true"
+                 android:src="@drawable/logo" /> -->
+            
+
+             </RelativeLayout>
+             
+                 <TextView
+                    android:id="@+id/welcome"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:text="New Entry"
+                    android:layout_toLeftOf="@+id/button1"
+                    android:gravity="center"
+                    android:padding="2dp"
+                    android:textColor="#000000"
+                    android:textSize="17sp" />
+    
+    <!-- End Header -->
+
+
+<ScrollView 
+  
+    
+        android:id="@+id/login_form"
+        
+        android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+        <LinearLayout
+           
+            android:orientation="vertical"            
+            android:layout_width="fill_parent"
+    		android:layout_height="fill_parent"
+    		
+    		android:background="@drawable/bg"
+     >
+     
+              <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+           >
+            
+            <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:text="Category"
+            android:layout_height="40dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+             />
+
+             <TextView
+                 android:id="@+id/textView4"
+                 android:layout_width="wrap_content"
+                 android:layout_height="40dp"
+                  android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+                 android:layout_alignParentTop="true"
+                 android:layout_centerHorizontal="true"
+                 android:gravity="right"
+                 android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+            </RelativeLayout>
+
+            <Spinner
+                android:id="@+id/spinner1"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_weight="0.30"
+                android:prompt="@string/prompt_cat"
+                android:textColor="#000000"
+                android:textSize="10sp" 
+                 android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"/>
+			
+                                
+                          
+            <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:text="Name"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+             />
+
+        <EditText
+            android:id="@+id/sno"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:ems="10"
+            android:text=""
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp" >
+        </EditText>
+                          
+         
+        <TextView
+            android:id="@+id/ecode123"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:text="PAN No."
+            android:textAppearance="?android:attr/textAppearanceMedium"
+             />
+
+        <EditText
+            android:id="@+id/ecode"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:ems="10"
+            android:text=""
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp" >
+        </EditText> 
+        
+        <TextView
+            android:id="@+id/textViewBankAccount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:text="Bank Account No"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+             />
+
+        <EditText
+            android:id="@+id/model"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:text=""
+            android:ems="10"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp" >
+        </EditText>
+        
+         <RelativeLayout
+              android:layout_width="match_parent"
+                android:layout_height="55dp" >
+
+                 <Button
+                     android:id="@+id/button2"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:layout_alignParentRight="true"
+                     android:layout_marginRight="15dp"
+                     android:layout_marginTop="10dp"
+                     android:background="@drawable/rb1"></Button>
+
+                 <Button
+                     android:id="@+id/buttonHome"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:layout_alignBaseline="@+id/button2"
+                     android:layout_alignBottom="@+id/button2"
+                     android:layout_alignParentLeft="true"
+                     android:layout_marginLeft="20dp"
+                     android:layout_marginTop="10dp"
+                     android:background="@drawable/lb2" />
+
+                 
+
+           </RelativeLayout> 
+                
+        </LinearLayout>
+     
+</ScrollView>
+
+</LinearLayout>

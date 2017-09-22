@@ -1,0 +1,818 @@
+[
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\camera_capture_up.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\camera_capture_up.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\record_pressed.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\record_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\red.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\red.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\camera_capture_dwn.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\camera_capture_dwn.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\ic_launcher.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\bggg.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\bggg.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\camera_back_button.xml",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\camera_back_button.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\bitrate.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\bitrate.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\save.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\camera_back_dwn.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\camera_back_dwn.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\round.xml",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\round.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\quality.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\quality.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\quality.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\quality.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\plusb2.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\plusb2.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\login.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\red1.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\red1.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\round_red.xml",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\round_red.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\stop_pressed.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\stop_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\bg.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\logo1.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\logo1.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\plus1.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\plus1.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\pressed_back.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\pressed_back.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\noti_icon.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\noti_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\red1.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\red1.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\button.xml",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\button_color.xml",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\button_color.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\layout_border.xml",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\layout_border.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\submit_btn.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\submit_btn.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\pluso1.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\pluso1.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\ripple_login.xml",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\ripple_login.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\camera_record_button.xml",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\camera_record_button.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\l1.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\l1.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\logo.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\watermarkimage_horizontal.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\watermarkimage_horizontal.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\logouticon.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\logouticon.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\empty_list.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\empty_list.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\watermarkimage_vertical.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\watermarkimage_vertical.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\record.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\record.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\camera_back_up.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\camera_back_up.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\bitrate.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\bitrate.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\del.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\del.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\camera_back_up.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\camera_back_up.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\camera_capture_up.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\camera_capture_up.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\resolution.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\resolution.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\l1.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\l1.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\compres.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\compres.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\video_icon.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\video_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\cmc.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\cmc.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\back.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\red.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\red.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\icici.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\icici.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\plus1.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\plus1.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\circle.xml",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\lo1.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\lo1.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\watermarkimage_vertical.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\watermarkimage_vertical.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\camera.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\layout_border.xml",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\layout_border.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\camera_stop_button.xml",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\camera_stop_button.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\round.xml",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\round.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\mahindra.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\mahindra.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\icici.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\icici.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\login.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\mahindra.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\mahindra.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\bg.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\camera_back_dwn.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\camera_back_dwn.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\ro1.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\ro1.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\icon.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\camera.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\record_pressed.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\record_pressed.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\gallery.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\stop.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\stop.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\lo1.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\lo1.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\black_border.xml",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\black_border.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\adstringo_logo.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\adstringo_logo.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\round_green.xml",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\round_green.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\view.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\view.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\save.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\stop_pressed.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\stop_pressed.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\compres.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\compres.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\ic_launcher.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\resolution.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\resolution.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\cmc.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\cmc.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\adstringo_logo.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\adstringo_logo.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\del.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\del.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\camera_capture_dwn.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\camera_capture_dwn.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\black_border.xml",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\black_border.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\submit_btn.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\submit_btn.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\capture_buttonbg.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\capture_buttonbg.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\plusb2.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\plusb2.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\camera_record_button.xml",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\camera_record_button.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\video_icon.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\video_icon.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\lb2.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\lb2.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\button_color.xml",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\button_color.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\rb1.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\rb1.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\icon.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\stop.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\stop.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\watermarkimage_horizontal.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\watermarkimage_horizontal.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\view.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\view.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\camera_stop_button.xml",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\camera_stop_button.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\rb1.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\rb1.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\r1.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\r1.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\ripple_login.xml",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\ripple_login.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\capture_buttonbg.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\capture_buttonbg.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\ro1.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\ro1.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\record.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\record.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\logo1.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\logo1.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\round_green.xml",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\round_green.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\lb2.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\lb2.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\noti_icon.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\noti_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\logo.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\bggg.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\bggg.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\button_pressed_color.xml",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\button_pressed_color.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\selector_radio.xml",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\selector_radio.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\selector_radio.xml",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\selector_radio.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\empty_list.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\empty_list.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\logouticon.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\logouticon.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\button_pressed_color.xml",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\button_pressed_color.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\r1.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\r1.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\pluso1.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\pluso1.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\back.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\camera_back_button.xml",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\camera_back_button.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\be9cc283ec6cff30598c3d72d0a315df1772778a\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\circle.xml",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\round_red.xml",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\round_red.xml"
+    },
+    {
+        "merged": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\watermarkimage.png",
+        "source": "E:\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\watermarkimage.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\pressed_back.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\pressed_back.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\button.xml",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\gallery.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\watermarkimage.png",
+        "source": "D:\\workspace\\MobiKYC_Docket_Folder_Structure_26\\videoCompressionLibrary\\src\\main\\res\\drawable\\watermarkimage.png"
+    }
+]

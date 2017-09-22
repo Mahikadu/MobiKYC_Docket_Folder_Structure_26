@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <!-- Header -->
+
+   <RelativeLayout
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="5dp" >
+            
+             <!-- <TextView
+                 android:id="@+id/textView1"
+                 android:layout_width="fill_parent"
+                 android:layout_height="35dp"
+                 android:layout_alignParentBottom="true"
+                 android:layout_alignParentTop="true"
+              
+                 android:gravity="center"
+                 android:padding="4dp"
+                 android:text="@string/app_name"
+                 android:textColor="#ffffff"
+                 android:textSize="25sp"
+                 android:textStyle="bold" /> -->
+
+         <!--     <ImageView
+                 android:id="@+id/imageView1"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentLeft="true"
+                 android:layout_centerVertical="true"
+                 android:src="@drawable/logo" /> -->
+
+                 <ImageView
+                     android:id="@+id/imageView1"
+                     android:layout_width="250dp"
+                     android:layout_height="100dp"
+                     android:layout_alignParentTop="true"
+                     android:layout_centerHorizontal="true"
+                     android:src="@drawable/logo1" />
+                 
+                 <Button
+            android:id="@+id/button_exit"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="32dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/logouticon" />
+
+             </RelativeLayout>
+            		
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="35dp" >
+             
+                
+                <TextView
+                    android:id="@+id/TextView01"
+                    android:layout_width="fill_parent"
+                    android:layout_height="30dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                   android:gravity="center"
+            		android:layout_marginTop="10dp"
+                
+                    android:padding="2dp"
+                    android:text="Select Quality &amp; Resolution"
+                    android:textColor="#000000"
+                    android:textSize="17sp" 
+                    android:textStyle="bold"/>
+
+
+            </RelativeLayout>
+    
+    <!-- End Header -->
+<ScrollView 
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+            android:background="@drawable/bg">
+
+
+<LinearLayout
+        android:id="@+id/login_form"
+        
+        android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:orientation="vertical"
+   android:layout_marginTop="40dp" 
+   android:layout_marginBottom="40dp">
+                
+       <Button
+        android:id="@+id/btn_resolution"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ftp_layout"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/resolution"
+ />
+
+    <RelativeLayout
+        android:id="@+id/resolution_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/btn_resolution"
+        android:layout_below="@+id/btn_resolution" 
+        android:visibility="gone"
+        >
+
+        <RadioGroup
+            android:id="@+id/rdg_optn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:paddingLeft="10dp" >
+
+             <RadioButton
+                android:id="@+id/rdo_org"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:button="@drawable/selector_radio"
+                android:paddingLeft="25dp"
+                android:text="Original"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#1b2c59"
+                android:textStyle="bold" />
+            
+            <RadioButton
+                android:id="@+id/rdo_high"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:button="@drawable/selector_radio"
+                android:paddingLeft="25dp"
+                android:text="High"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#1b2c59"
+                android:textStyle="bold" />
+
+            <RadioButton
+                android:id="@+id/rdo_medium"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:button="@drawable/selector_radio"
+                android:paddingLeft="25dp"
+                android:text="Medium"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#1b2c59"
+                android:textStyle="bold" />
+
+            <RadioButton
+                android:id="@+id/rdo_low"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@drawable/selector_radio"
+                android:paddingLeft="25dp"
+                android:text="Low"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#1b2c59"
+                android:textStyle="bold" />
+        </RadioGroup>
+    </RelativeLayout>
+
+    
+    <Button
+        android:id="@+id/btn_quality"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/resolution_layout"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/quality"
+        />
+
+    <RelativeLayout
+        android:id="@+id/quality_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/btn_resolution"
+        android:layout_below="@+id/btn_quality"
+        android:visibility="gone" >
+
+        <RadioGroup
+            android:id="@+id/rdg_optn1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:paddingLeft="10dp"
+             >
+
+            <RadioButton
+                android:id="@+id/rdo_org1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:button="@drawable/selector_radio"
+                android:paddingLeft="25dp"
+                android:text="Original"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#1b2c59"
+                android:textStyle="bold" />
+            
+            <RadioButton
+                android:id="@+id/rdo_high1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:button="@drawable/selector_radio"
+                android:paddingLeft="25dp"
+                android:text="High"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#1b2c59"
+                android:textStyle="bold" />
+
+            <RadioButton
+                android:id="@+id/rdo_medium1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:button="@drawable/selector_radio"
+                android:paddingLeft="25dp"
+                android:text="Medium"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#1b2c59"
+                android:textStyle="bold" />
+
+            <RadioButton
+                android:id="@+id/rdo_low1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@drawable/selector_radio"
+                android:paddingLeft="25dp"
+                android:text="Low"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#1b2c59"
+                android:textStyle="bold" />
+        </RadioGroup>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal"
+            android:layout_marginTop="30dp"
+             android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp">
+
+        <Button
+                android:id="@+id/Button01"                
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginRight="10dp"
+               android:background="@drawable/lb2" 
+               android:visibility="gone"/>
+
+        <Button
+            android:id="@+id/saveButton"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:background="@drawable/round"
+            android:gravity="center"
+            android:padding="4dp"
+            android:text="Save &amp; Submit"
+            android:textColor="#ffffff"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+      <!--   <Button
+            android:id="@+id/saveButton"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="fill_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/round"
+            android:gravity="center"
+            android:padding="4dp"
+            android:text="Save"
+            android:textColor="#ffffff"
+            android:textSize="20dp"
+            android:textStyle="bold" 
+            android:layout_marginBottom="30dp"/> -->
+    </LinearLayout>
+
+       </LinearLayout>
+</ScrollView>
+        </LinearLayout>
+        

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <dimen name="spinner_size">280dp</dimen>
+    <dimen name="img_width">180dp</dimen>
+    <dimen name="img_height">180dp</dimen>
+    <dimen name="list_height">500dp</dimen>
+</resources>

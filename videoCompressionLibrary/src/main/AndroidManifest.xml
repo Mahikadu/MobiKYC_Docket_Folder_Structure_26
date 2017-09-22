@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.adstringo.video4androidRemoteServiceBridge"
+    android:versionCode="9004"
+    android:versionName="9.0.04">
+
+    <application android:label="@string/app_name">
+        <activity
+            android:name="com.adstringo.video4androidRemoteServiceBridge.MainAct"
+            android:label="@string/app_name">
+            <!--<intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>-->
+        </activity>
+        <activity
+            android:name="com.adstringo.DemoClient"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.adstringo.android_client.ShowFileAct">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.adstringo.MainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.adstringo.VideoRecordSurfaceViewActivity"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.adstringo.MyCamera"
+            android:screenOrientation="portrait" />
+        <service
+            android:name="com.adstringo.video4androidRemoteServiceBridge.RemoteServiceBridgeService"
+            android:exported="true"
+            android:process=":remote">
+            <intent-filter>
+                <action android:name="com.adstringo.video4androidRemoteServiceBridge"/>
+            </intent-filter>
+        </service>
+    </application>
+
+
+
+</manifest>

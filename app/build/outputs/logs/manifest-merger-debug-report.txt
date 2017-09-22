@@ -1,0 +1,367 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:2:1-115:12
+	package
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_GPS
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:9:22-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.CAMERA
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:14:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:16:5-60
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:16:19-57
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:19:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:20:22-72
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:21:22-77
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:23:5-70
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:23:19-67
+application
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:25:5-113:19
+MERGED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:11:5-58:19
+MERGED from [com.google.android.gms:play-services-location:11.0.2] C:\Users\Admin\.android\build-cache\2ee5d8944799a5c6406a75b07c919a5ab152c99b\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Admin\.android\build-cache\8d57683a08b62507717ccf80f3e3651a7e6662f5\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\Admin\.android\build-cache\09ecab9ee8d75a3df86721011ff9ce0e6e7fe15f\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Admin\.android\build-cache\42c174d251903ba8119f0df15bad86dea7fd9800\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\776e9e5c1b011f2ca81f3bea3ce364e400b0fee7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.android\build-cache\0b99e276bc28af3cef94f7774a9d7a04e8fe9018\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\be9cc283ec6cff30598c3d72d0a315df1772778a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\8da6db8abfd728afa9a3959d049b249a0f2bf311\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\d803805c49762fe926d554c639e0ad837da65f4c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\df3d22c1edef77049d3d5789ac691d21a5ddd7b0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\90f57138cddc120a87f15203a489e70ba4066796\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\43c7c902b694a0976172e6df6591e20dae8ff303\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\30bb10b8b086f378fc4593b8ec9b8d27a13dc015\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\1ec47c6a1623ebec1cd79d8aaca8c31be4afa5d1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\7f474857685e044c241466b8ade679f96c74be11\output\AndroidManifest.xml:29:5-20
+	android:screenOrientation
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:30:9-45
+	android:label
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:28:9-41
+	android:allowBackup
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:26:9-35
+	android:icon
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:27:9-38
+	android:largeHeap
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:29:9-33
+	android:theme
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:31:9-40
+provider#android.support.v4.content.FileProvider
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:authorities
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:34:13-60
+		INJECTED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml
+	android:grantUriPermissions
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:36:13-47
+	android:exported
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:33:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:37:13-39:54
+	android:resource
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:39:17-51
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:38:17-67
+activity#org.exto.mobescan.kyc.HomeActivity
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:42:9-46:57
+	android:screenOrientation
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:45:13-49
+	android:label
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:44:13-45
+	android:windowSoftInputMode
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:46:13-54
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:43:13-62
+activity#org.exto.mobescan.kyc.MainActivity
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:47:9-51:57
+	android:screenOrientation
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:50:13-49
+	android:label
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:49:13-56
+	android:windowSoftInputMode
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:48:13-62
+activity#org.exto.mobescan.kyc.SaveActivity
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:52:9-56:57
+	android:screenOrientation
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:55:13-49
+	android:label
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:54:13-56
+	android:windowSoftInputMode
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:56:13-54
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:53:13-62
+activity#org.exto.mobescan.kyc.PreviewActivity
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:57:9-61:57
+	android:screenOrientation
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:60:13-49
+	android:label
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:59:13-59
+	android:windowSoftInputMode
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:61:13-54
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:58:13-65
+activity#org.exto.mobescan.kyc.ViewActivity
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:62:9-66:57
+	android:screenOrientation
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:64:13-56
+	android:windowSoftInputMode
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:66:13-54
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:63:13-62
+activity#org.exto.mobescan.kyc.LoginActivity
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:67:9-78:20
+	android:screenOrientation
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:69:13-45
+	android:windowSoftInputMode
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:72:13-54
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:68:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:73:13-77:29
+action#android.intent.action.MAIN
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:74:17-69
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:74:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:76:17-77
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:76:27-74
+activity#org.exto.Login.LoginViewActivity
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:79:9-83:57
+	android:screenOrientation
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:82:13-49
+	android:label
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:81:13-57
+	android:windowSoftInputMode
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:83:13-54
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:80:13-60
+activity#org.exto.Login.LoginMainActivity
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:84:9-88:57
+	android:screenOrientation
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:87:13-49
+	android:label
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:86:13-57
+	android:windowSoftInputMode
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:88:13-54
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:85:13-60
+activity#org.exto.Login.LoginPreviewActivity
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:89:9-93:57
+	android:screenOrientation
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:92:13-49
+	android:label
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:91:13-57
+	android:windowSoftInputMode
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:93:13-54
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:90:13-63
+activity#org.exto.mobescan.kyc.AdStringoActivity
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:95:9-98:57
+	android:screenOrientation
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:97:13-49
+	android:windowSoftInputMode
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:98:13-54
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:96:13-45
+activity#org.exto.mobescan.kyc.ActivityPreview
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:99:9-101:52
+	android:screenOrientation
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:101:13-49
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:100:13-43
+receiver#com.adstringo.compressionreceiver.CompressionReceiver
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:104:9-111:20
+	android:label
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:106:13-48
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:105:13-81
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE+android.net.wifi.WIFI_STATE_CHANGED
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:107:13-110:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:108:17-79
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:108:25-76
+action#android.net.wifi.WIFI_STATE_CHANGED
+ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:109:17-78
+	android:name
+		ADDED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml:109:25-75
+uses-sdk
+INJECTED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:11.0.2] C:\Users\Admin\.android\build-cache\2ee5d8944799a5c6406a75b07c919a5ab152c99b\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Admin\.android\build-cache\8d57683a08b62507717ccf80f3e3651a7e6662f5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\Admin\.android\build-cache\09ecab9ee8d75a3df86721011ff9ce0e6e7fe15f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Admin\.android\build-cache\42c174d251903ba8119f0df15bad86dea7fd9800\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\776e9e5c1b011f2ca81f3bea3ce364e400b0fee7\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Admin\.android\build-cache\a91a3ab17ec79098dda843a1c69ee58eea95dfc6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.android\build-cache\0b99e276bc28af3cef94f7774a9d7a04e8fe9018\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Admin\.android\build-cache\5079892cabc53e6dbd36d4615b7408383cb882d9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\be9cc283ec6cff30598c3d72d0a315df1772778a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\8da6db8abfd728afa9a3959d049b249a0f2bf311\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\d803805c49762fe926d554c639e0ad837da65f4c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\df3d22c1edef77049d3d5789ac691d21a5ddd7b0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\90f57138cddc120a87f15203a489e70ba4066796\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\43c7c902b694a0976172e6df6591e20dae8ff303\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\30bb10b8b086f378fc4593b8ec9b8d27a13dc015\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\1ec47c6a1623ebec1cd79d8aaca8c31be4afa5d1\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\7f474857685e044c241466b8ade679f96c74be11\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\776e9e5c1b011f2ca81f3bea3ce364e400b0fee7\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MobiKYC_Docket_Folder_Structure_26\app\src\main\AndroidManifest.xml
+activity#com.adstringo.video4androidRemoteServiceBridge.MainAct
+ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:12:9-23:20
+	android:label
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:13:13-82
+activity#com.adstringo.DemoClient
+ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:27:13-45
+	android:windowSoftInputMode
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:28:13-54
+	android:configChanges
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:26:13-83
+	android:name
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:25:13-52
+intent-filter#android.intent.action.MAIN
+ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:29:13-31:29
+activity#com.adstringo.android_client.ShowFileAct
+ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:33:9-37:20
+	android:name
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:33:19-74
+activity#com.adstringo.MainActivity
+ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:38:9-41:57
+	android:screenOrientation
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:40:13-49
+	android:windowSoftInputMode
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:41:13-54
+	android:name
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:39:13-54
+activity#com.adstringo.VideoRecordSurfaceViewActivity
+ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:42:9-45:57
+	android:screenOrientation
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:44:13-50
+	android:windowSoftInputMode
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:45:13-54
+	android:name
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:43:13-72
+activity#com.adstringo.MyCamera
+ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:46:9-48:52
+	android:screenOrientation
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:48:13-49
+	android:name
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:47:13-50
+service#com.adstringo.video4androidRemoteServiceBridge.RemoteServiceBridgeService
+ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:50:9-57:19
+	android:process
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:53:13-38
+	android:exported
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:51:13-101
+intent-filter#com.adstringo.video4androidRemoteServiceBridge
+ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:54:13-56:29
+action#com.adstringo.video4androidRemoteServiceBridge
+ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:55:17-89
+	android:name
+		ADDED from [MobiKYC_Docket_Folder_Structure_26:videoCompressionLibrary:unspecified] E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\AndroidManifest.xml:55:25-86
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Admin\.android\build-cache\8d57683a08b62507717ccf80f3e3651a7e6662f5\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Admin\.android\build-cache\8d57683a08b62507717ccf80f3e3651a7e6662f5\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Admin\.android\build-cache\8d57683a08b62507717ccf80f3e3651a7e6662f5\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Admin\.android\build-cache\8d57683a08b62507717ccf80f3e3651a7e6662f5\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Admin\.android\build-cache\42c174d251903ba8119f0df15bad86dea7fd9800\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Admin\.android\build-cache\42c174d251903ba8119f0df15bad86dea7fd9800\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Admin\.android\build-cache\42c174d251903ba8119f0df15bad86dea7fd9800\output\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\776e9e5c1b011f2ca81f3bea3ce364e400b0fee7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Admin\.android\build-cache\a91a3ab17ec79098dda843a1c69ee58eea95dfc6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.android\build-cache\0b99e276bc28af3cef94f7774a9d7a04e8fe9018\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\be9cc283ec6cff30598c3d72d0a315df1772778a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\8da6db8abfd728afa9a3959d049b249a0f2bf311\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\d803805c49762fe926d554c639e0ad837da65f4c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\df3d22c1edef77049d3d5789ac691d21a5ddd7b0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\90f57138cddc120a87f15203a489e70ba4066796\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\43c7c902b694a0976172e6df6591e20dae8ff303\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\30bb10b8b086f378fc4593b8ec9b8d27a13dc015\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\1ec47c6a1623ebec1cd79d8aaca8c31be4afa5d1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\7f474857685e044c241466b8ade679f96c74be11\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\776e9e5c1b011f2ca81f3bea3ce364e400b0fee7\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\776e9e5c1b011f2ca81f3bea3ce364e400b0fee7\output\AndroidManifest.xml:26:9-47

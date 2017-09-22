@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\09ecab9ee8d75a3df86721011ff9ce0e6e7fe15f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_8650fbfc0e5834c52828657e5990423a8f201fa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\libs\commons-net-3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60c1ab1d7534bca8394173ce206affd62c6244a1">
+        <dex dex="E:\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\commons-net-3.6_32b7b42b25a3617a5642fc47cdc2b0223ad10583.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\90f57138cddc120a87f15203a489e70ba4066796\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_2f5b5ab3c69cef2336c504530ef7dd0e5c40d8e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\libs\commons-net-3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60c1ab1d7534bca8394173ce206affd62c6244a1">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\commons-net-3.6_0f7427792470babe0530efaa64bf87ebc93aa16b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\d803805c49762fe926d554c639e0ad837da65f4c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_0ee639d938609247f35b8b6289d62a2279385b3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MobiKYC_Docket_Folder_Structure_26\app\libs\itextpdf-5.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea94efc32c51c0c6c2965d58597fa2dcffc4645c">
+        <dex dex="E:\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\itextpdf-5.5.3_74390a85fb5fb036a08729cbac0541d3e48454a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\be9cc283ec6cff30598c3d72d0a315df1772778a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_f35f55a01caeb36c5b7e26ff2066be45448fefd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\7f474857685e044c241466b8ade679f96c74be11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_c49706cc2acc881d0ec4fa0b21c5ca823760669b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\a91a3ab17ec79098dda843a1c69ee58eea95dfc6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_43060a51f1b4ee1c6a492724997bc41da10180d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\libs\ksoap2-android-assembly-3.0.0-RC.4-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="038b79ea768fb3ab87ecb3d505e8f10988bc14dc">
+        <dex dex="E:\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.0.0-RC.4-jar-with-dependencies_0b649b12e355a0726709a7be24147ebd8387d629.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\libs\itextpdf-5.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea94efc32c51c0c6c2965d58597fa2dcffc4645c">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\itextpdf-5.5.3_ac9aa673df5b1273f9d2cc78aab1d0a5341f875e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\776e9e5c1b011f2ca81f3bea3ce364e400b0fee7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_c48d8560859becfb7d2b8d38ef36dd6944f4bb2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\42c174d251903ba8119f0df15bad86dea7fd9800\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_9a1034ccec1dc7a5e04449894298f7745a6fcaad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\df3d22c1edef77049d3d5789ac691d21a5ddd7b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_8c2bb9ca533806e3199b602ac5fe900e0df5e70e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\30bb10b8b086f378fc4593b8ec9b8d27a13dc015\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_7a81f6a6bce1ab4fe8d4016366c003cef3411550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\8d57683a08b62507717ccf80f3e3651a7e6662f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_0bb2d80584f574f8bc2aae3dd8dfdc75dbe8bd6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\libs\ksoap2-android-assembly-3.0.0-RC.4-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="038b79ea768fb3ab87ecb3d505e8f10988bc14dc">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.0.0-RC.4-jar-with-dependencies_0368cd705596a4a31c02ca0fd1ad3227d260b48f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\0b99e276bc28af3cef94f7774a9d7a04e8fe9018\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_593f812a6f3061a9f3ae787aa26259a9e7f85874.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\2ee5d8944799a5c6406a75b07c919a5ab152c99b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="240e5a7c620376184f3168cfdd36315b97b1fe07">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_c5f74e4fc03a3eeac2ff37c2825fa04ddab8c63d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\8da6db8abfd728afa9a3959d049b249a0f2bf311\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_f70a5713a8c49a4fae993dc6e56a0501401ed865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\43c7c902b694a0976172e6df6591e20dae8ff303\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_1ad395688f82985e2713e636f88c7d68e6583c7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\1ec47c6a1623ebec1cd79d8aaca8c31be4afa5d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_b4ea88539943acb22b85a81ed996643af65ae385.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\5079892cabc53e6dbd36d4615b7408383cb882d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_33c345dd51e9b96fe6a2cef2a32f02924127a57e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio3.0\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_3ce97d48c166cfa29c5ae7c0daf2d4762097821d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\workspace\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a257ab7b54ae61f89347ddaf6d3228ffe0d3f55">
+        <dex dex="D:\workspace\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_cc75fbf52adb8fb1ac6135dceaa99518db33b576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MobiKYC_Docket_Folder_Structure_26\videoCompressionLibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fa4f4424b05c7f4227bc17fe01d04b706d08a50">
+        <dex dex="E:\MobiKYC_Docket_Folder_Structure_26\app\build\intermediates\pre-dexed\debug\classes_24392cfdf47be849940c2de61bde3a42e0349e08.jar" />
+    </item>
+
+</items>
